@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter should render counter 1`] = `
+<div>
+  <div>
+    Counter: 
+  </div>
+  <div>
+    <button
+      className="Button"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "#0000ff",
+        }
+      }
+      type="button"
+    >
+       
+      Increase
+       
+    </button>
+  </div>
+  <div>
+    <button
+      className="Button"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "#0000ff",
+        }
+      }
+      type="button"
+    >
+       
+      Decrease
+       
+    </button>
+  </div>
+</div>
+`;

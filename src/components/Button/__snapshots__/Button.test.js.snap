@@ -4,9 +4,15 @@ exports[`Button should render a button 1`] = `
 <div>
   <button
     className="Button"
+    style={
+      Object {
+        "color": "#0000ff",
+      }
+    }
     type="button"
   >
-    Click me!
+     
+     
   </button>
 </div>
 `;
